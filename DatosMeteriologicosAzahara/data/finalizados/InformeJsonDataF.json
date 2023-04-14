@@ -1,0 +1,86 @@
+[
+  {
+    "fecha": "2017-10-29",
+    "datosInforme": {
+      "temperaturaMedia": "14.976316",
+      "temperaturaMáxima": "25.1",
+      "temperaturaMáximaLugar": "Aranjuez",
+      "temperaturaMáximaMomento": "16:30",
+      "temperaturaMinima": "3.5",
+      "temperaturaMinimaLugar": "Rascafr�a",
+      "temperaturaMinimaMomento": "15:20",
+      "siHuboPrecipitación": "false",
+      "precipitacion": "0.0"
+    }
+  },
+  {
+    "fecha": "2017-10-30",
+    "datosInforme": {
+      "temperaturaMedia": "13.56842",
+      "temperaturaMáxima": "25.2",
+      "temperaturaMáximaLugar": "Alpedrete",
+      "temperaturaMáximaMomento": "14:40",
+      "temperaturaMinima": "-0.2",
+      "temperaturaMinimaLugar": "Rascafr�a",
+      "temperaturaMinimaMomento": "14:10",
+      "siHuboPrecipitación": "false",
+      "precipitacion": "0.0"
+    }
+  },
+  {
+    "fecha": "2017-10-31",
+    "datosInforme": {
+      "temperaturaMedia": "11.528948",
+      "temperaturaMáxima": "22.4",
+      "temperaturaMáximaLugar": "Aranjuez",
+      "temperaturaMáximaMomento": "16:40",
+      "temperaturaMinima": "-0.9",
+      "temperaturaMinimaLugar": "Rascafr�a",
+      "temperaturaMinimaMomento": "06:20",
+      "siHuboPrecipitación": "false",
+      "precipitacion": "0.0"
+    }
+  },
+  {
+    "fecha": "{ dia:2017-10-29 }",
+    "datosInforme": {
+      "temperaturaMedia": "14.976316",
+      "temperaturaMáxima": "25.1",
+      "temperaturaMáximaLugar": "Aranjuez",
+      "temperaturaMáximaMomento": "2017-10-29",
+      "temperaturaMinima": "3.5",
+      "temperaturaMinimaLugar": "Rascafr�a",
+      "temperaturaMinimaMomento": "2017-10-29",
+      "siHuboPrecipitación": "false",
+      "precipitacion": "0.0"
+    }
+  },
+  {
+    "fecha": "{ dia:2017-10-30 }",
+    "datosInforme": {
+      "temperaturaMedia": "13.56842",
+      "temperaturaMáxima": "25.2",
+      "temperaturaMáximaLugar": "Alpedrete",
+      "temperaturaMáximaMomento": "2017-10-30",
+      "temperaturaMinima": "-0.2",
+      "temperaturaMinimaLugar": "Rascafr�a",
+      "temperaturaMinimaMomento": "2017-10-30",
+      "siHuboPrecipitación": "false",
+      "precipitacion": "0.0"
+    }
+  },
+  {
+    "fecha": "{ dia:2017-10-31 }",
+    "datosInforme": {
+      "temperaturaMedia": "11.528949",
+      "temperaturaMáxima": "22.4",
+      "temperaturaMáximaLugar": "Aranjuez",
+      "temperaturaMáximaMomento": "2017-10-31",
+      "temperaturaMinima": "-0.9",
+      "temperaturaMinimaLugar": "Rascafr�a",
+      "temperaturaMinimaMomento": "2017-10-31",
+      "siHuboPrecipitación": "false",
+      "precipitacion": "0.0"
+    }
+  }
+]

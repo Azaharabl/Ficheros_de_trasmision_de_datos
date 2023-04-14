@@ -1,0 +1,44 @@
+[
+  {
+    "fecha": "2017-10-31",
+    "datosInforme": {
+      "temperaturaMedia": "11.528949",
+      "temperaturaMáxima": "11.1",
+      "temperaturaMáximaLugar": "Puerto Alto del Le�n",
+      "temperaturaMáximaMomento": "16:00",
+      "temperaturaMinima": "-0.9",
+      "temperaturaMinimaLugar": "Rascafr�a",
+      "temperaturaMinimaMomento": "06:20",
+      "siHuboPrecipitación": "false",
+      "precipitacion": "0.0"
+    }
+  },
+  {
+    "fecha": "2017-10-30",
+    "datosInforme": {
+      "temperaturaMedia": "13.568422",
+      "temperaturaMáxima": "13.9",
+      "temperaturaMáximaLugar": "Puerto Alto del Le�n",
+      "temperaturaMáximaMomento": "14:00",
+      "temperaturaMinima": "-0.2",
+      "temperaturaMinimaLugar": "Rascafr�a",
+      "temperaturaMinimaMomento": "14:10",
+      "siHuboPrecipitación": "false",
+      "precipitacion": "0.0"
+    }
+  },
+  {
+    "fecha": "2017-10-29",
+    "datosInforme": {
+      "temperaturaMedia": "14.976318",
+      "temperaturaMáxima": "15.1",
+      "temperaturaMáximaLugar": "Somosierra",
+      "temperaturaMáximaMomento": "16:10",
+      "temperaturaMinima": "3.5",
+      "temperaturaMinimaLugar": "Rascafr�a",
+      "temperaturaMinimaMomento": "15:20",
+      "siHuboPrecipitación": "false",
+      "precipitacion": "0.0"
+    }
+  }
+]
